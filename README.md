@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ¡Hola 👋🏻! Soy Jesús Meza
+# ¡Hola 👋🏻! Soy [Jesús Meza](https://jesusmeza.dev/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JesusMezaDev)
 
@@ -24,8 +24,6 @@ Me llamo Jesús Meza pero mis amigos me llaman Chuy. Desde pequeño me fascina l
 Algunos de mis éxitos incluyen colaborar con un equipo de desarrollo del Gobierno del Estado de Sinaloa para mejorar la calidad de los procesos de recepción y entrega de valores, además de crear un componente que permite visualizar y contestar cuestionarios donde al menos 5,000 clientes lo utilizan y les ayuda en la toma de decisiones.
 
 En mi tiempo libre me gusta ir a pescar, escuchar música y jugar videojuegos, pero lo mejor es pasar tiempo con mi familia. Aprender nuevas tecnologías y compartir lo que sé con los demás es una de las cosas que más disfruto de mi profesión.
-
-<img src="https://jesusmeza.dev/images/MeFishing.webp" alt="Jesús Meza Pescando" height="350">
 
 ## 🔧 Tecnologías y Herramientas
 
