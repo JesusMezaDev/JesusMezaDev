@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Acerca de mi
 
-Me llamo Jesús Meza pero mis amigos me llaman Chuy. Desde pequeño me fascina la tecnología. +12 años de experiencia. Actualmente trabajo de manera remota en México como Full Stack Web Developer.
+Mis amigos me llaman Chuy. Desde pequeño me fascina la tecnología. +12 años de experiencia. Actualmente trabajo de manera remota en México como Full Stack Web Developer.
 
 Algunos de mis éxitos incluyen colaborar con un equipo de desarrollo del Gobierno del Estado de Sinaloa para mejorar la calidad de los procesos de recepción y entrega de valores, además de crear un componente que permite visualizar y contestar cuestionarios donde al menos 5,000 clientes lo utilizan y les ayuda en la toma de decisiones.
 
