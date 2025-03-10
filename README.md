@@ -21,16 +21,21 @@ Here are some ideas to get you started:
 
 Mis amigos me llaman Chuy. Desde pequeño me fascina la tecnología. +12 años de experiencia. Actualmente trabajo de manera remota en México como Full Stack Web Developer.
 
-Algunos de mis éxitos incluyen colaborar con un equipo de desarrollo del Gobierno del Estado de Sinaloa para mejorar la calidad de los procesos de recepción y entrega de valores, además de crear un componente que permite visualizar y contestar cuestionarios donde al menos 5,000 clientes lo utilizan y les ayuda en la toma de decisiones.
-
 En mi tiempo libre me gusta ir a pescar, escuchar música y jugar videojuegos, pero lo mejor es pasar tiempo con mi familia. Aprender nuevas tecnologías y compartir lo que sé con los demás es una de las cosas que más disfruto de mi profesión.
+
+[](https://jesusmeza.dev/_astro/MeFishing.w73ojSaE_19AdjB.webp)
 
 ## 🔧 Tecnologías y Herramientas
 
-- **Languages:** JavaScript, Typescript, C#, Visual Basic .Net
-- **Frameworks:** Node.js, Express, Nest, Astro, Vue, jQuery
-- **Databases:** Microsoft SQL, MongoDB
-- **Tools:** Git
+- **Lenguajes:** JavaScript, Typescript, C#, Visual Basic .Net
+- **Frameworks:** Node.js, Nest, Astro, Vue, jQuery, Tailwind
+- **Bases de Datos:** Microsoft SQL, MongoDB
+- **Versionamiento:** Git, Tortoise SVN
+
+## 🌱 Estoy aprendiendo
+
+- React
+
 
 ## 📫 Mándame un mensaje
 
