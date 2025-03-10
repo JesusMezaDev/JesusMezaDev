@@ -17,13 +17,31 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JesusMezaDev)
 
+<div style="text-align: center;">
+    <img src="./Images/CSharp.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    <img src="./Images/SQL.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    <img src="./Images/Html.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    <img src="./Images/Css.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    <img src="./Images/Javascript.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    <img src="./Images/Typescript.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    <img src="./Images/Vue.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    <img src="./Images/Astro.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    <img src="./Images/Node.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    <img src="./Images/Nest.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    <img src="./Images/JQuery.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    <img src="./Images/Bootstrap.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    <img src="./Images/Tailwind.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+</div>
+
 ## Acerca de mi
 
 Mis amigos me llaman Chuy. Desde pequeño me fascina la tecnología. +12 años de experiencia. Actualmente trabajo de manera remota en México como Full Stack Web Developer.
 
 En mi tiempo libre me gusta ir a pescar, escuchar música y jugar videojuegos, pero lo mejor es pasar tiempo con mi familia. Aprender nuevas tecnologías y compartir lo que sé con los demás es una de las cosas que más disfruto de mi profesión.
 
-<img src="https://jesusmeza.dev/_astro/MeFishing.w73ojSaE_19AdjB.webp" />
+<div style="text-align: center;">
+    <img src="https://jesusmeza.dev/_astro/MeFishing.w73ojSaE_19AdjB.webp" width="600" alt="Jesús Meza pescando con una caña" />
+</div>
 
 ## 🔧 Tecnologías y Herramientas
 
@@ -35,6 +53,7 @@ En mi tiempo libre me gusta ir a pescar, escuchar música y jugar videojuegos, p
 ## 🌱 Estoy aprendiendo
 
 - React
+- Micro Servicios en Nest y Net.Core
 
 
 ## 📫 Mándame un mensaje
@@ -46,6 +65,7 @@ En mi tiempo libre me gusta ir a pescar, escuchar música y jugar videojuegos, p
 ## 📈 GitHub Stats
 
 ![JesusMezaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusMezaDev&show_icons=true&theme=radical)
+
 
 ## 🏆 GitHub Trophies
 
