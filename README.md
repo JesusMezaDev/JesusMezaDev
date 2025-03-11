@@ -18,19 +18,45 @@ Here are some ideas to get you started:
 ![Profile Views](https://komarev.com/ghpvc/?username=JesusMezaDev)
 
 <div style="display: flex; justify-content: center;">
+    <div>
     <img src="./Images/CSharp.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    </div>
+    <div>
     <img src="./Images/SQL.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    </div>
+    <div>
     <img src="./Images/Html.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    </div>
+    <div>
     <img src="./Images/Css.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    </div>
+    <div>
     <img src="./Images/Javascript.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    </div>
+    <div>
     <img src="./Images/Typescript.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    </div>
+    <div>
     <img src="./Images/Vue.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    </div>
+    <div>
     <img src="./Images/Astro.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    </div>
+    <div>
     <img src="./Images/Node.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    </div>
+    <div>
     <img src="./Images/Nest.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    </div>
+    <div>
     <img src="./Images/JQuery.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    </div>
+    <div>
     <img src="./Images/Bootstrap.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    </div>
+    <div>
     <img src="./Images/Tailwind.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
+    </div>
 </div>
 
 ## Acerca de mi
