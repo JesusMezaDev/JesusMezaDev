@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JesusMezaDev)
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
     <img src="./Images/CSharp.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
     <img src="./Images/SQL.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
     <img src="./Images/Html.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
