@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JesusMezaDev)
 
-<div style="display: flex; flex-direction: column; justify-content: center;">
+<div style="display: flex; flex-direction: row; justify-content: center;">
     <div>
     <img src="./Images/CSharp.svg" width="60" height="60" style="margin-right: 10px; margin-left: 10px;" />
     </div>
