@@ -18,19 +18,20 @@ Here are some ideas to get you started:
 ![Profile Views](https://komarev.com/ghpvc/?username=JesusMezaDev)
 
 <div style="text-align: center;">
-    <img src="./Images/CSharp.svg" width="60" height="60" style="margin-right: 20px; margin-left: 20px;" />
-    <img src="./Images/SQL.svg" width="60" height="60" style="margin-right: 20px; margin-left: 20px;" />
-    <img src="./Images/Html.svg" width="60" height="60" style="margin-right: 20px; margin-left: 20px;" />
-    <img src="./Images/Css.svg" width="60" height="60" style="margin-right: 20px; margin-left: 20px;" />
-    <img src="./Images/Javascript.svg" width="60" height="60" style="margin-right: 20px; margin-left: 20px;" />
-    <img src="./Images/Typescript.svg" width="60" height="60" style="margin-right: 20px; margin-left: 20px;" />
-    <img src="./Images/Vue.svg" width="60" height="60" style="margin-right: 20px; margin-left: 20px;" />
-    <img src="./Images/Astro.svg" width="60" height="60" style="margin-right: 20px; margin-left: 20px;" />
-    <img src="./Images/Node.svg" width="60" height="60" style="margin-right: 20px; margin-left: 20px;" />
-    <img src="./Images/Nest.svg" width="60" height="60" style="margin-right: 20px; margin-left: 20px;" />
-    <img src="./Images/JQuery.svg" width="60" height="60" style="margin-right: 20px; margin-left: 20px;" />
-    <img src="./Images/Bootstrap.svg" width="60" height="60" style="margin-right: 20px; margin-left: 20px;" />
-    <img src="./Images/Tailwind.svg" width="60" height="60" style="margin-right: 20px; margin-left: 20px;" />
+    <img src="./Images/CSharp.svg" width="60" height="60" style="margin-right: 15px; margin-left: 15px;" />
+    <img src="./Images/SQL.svg" width="60" height="60" style="margin-right: 15px; margin-left: 15px;" />
+    <img src="./Images/MongoDB.svg" width="60" height="60" style="margin-right: 15px; margin-left: 15px;" />
+    <img src="./Images/Html.svg" width="60" height="60" style="margin-right: 15px; margin-left: 15px;" />
+    <img src="./Images/Css.svg" width="60" height="60" style="margin-right: 15px; margin-left: 15px;" />
+    <img src="./Images/Javascript.svg" width="60" height="60" style="margin-right: 15px; margin-left: 15px;" />
+    <img src="./Images/Typescript.svg" width="60" height="60" style="margin-right: 15px; margin-left: 15px;" />
+    <img src="./Images/Vue.svg" width="60" height="60" style="margin-right: 15px; margin-left: 15px;" />
+    <img src="./Images/Astro.svg" width="60" height="60" style="margin-right: 15px; margin-left: 15px;" />
+    <img src="./Images/Node.svg" width="60" height="60" style="margin-right: 15px; margin-left: 15px;" />
+    <img src="./Images/Nest.svg" width="60" height="60" style="margin-right: 15px; margin-left: 15px;" />
+    <img src="./Images/JQuery.svg" width="60" height="60" style="margin-right: 15px; margin-left: 15px;" />
+    <img src="./Images/Bootstrap.svg" width="60" height="60" style="margin-right: 15px; margin-left: 15px;" />
+    <img src="./Images/Tailwind.svg" width="60" height="60" style="margin-right: 15px; margin-left: 15px;" />
 </div>
 
 ## Acerca de mi
