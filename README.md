@@ -41,7 +41,7 @@ Mis amigos me llaman Chuy. Desde pequeño me fascina la tecnología. +12 años d
 En mi tiempo libre me gusta ir a pescar, escuchar música y jugar videojuegos, pero lo mejor es pasar tiempo con mi familia. Aprender nuevas tecnologías y compartir lo que sé con los demás es una de las cosas que más disfruto de mi profesión.
 
 <div style="text-align: center;">
-    <img src="https://jesusmeza.dev/_astro/MeFishing.w73ojSaE_19AdjB.webp" width="600" alt="Jesús Meza pescando con una caña" />
+    <img src="https://jesusmeza.dev/_image?href=%2F_astro%2FMeFishing.w73ojSaE.webp&w=1040&h=780&f=webp" width="600" alt="Jesús Meza pescando con una caña" />
 </div>
 
 ## 🔧 Tecnologías y Herramientas
