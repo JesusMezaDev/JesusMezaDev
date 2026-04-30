@@ -45,7 +45,7 @@ En mi tiempo libre me gusta ir a pescar, escuchar música y jugar videojuegos, p
 Sin duda el mayor éxito en mi vida es mi familia. Mi esposa y mi pequeño hijo son los más grandes tesoros que tengo y mi fuente de inspiración para seguir creciendo personal y profesionalmente.
 
 <div style="text-align: center;">
-    <img src="https://jesusmeza.dev/_astro/Fishing1.w73ojSaE_RckST.webp" width="600" alt="Jesús Meza pescando con una caña" />
+    <img src="./Images/Fishing1.webp" width="600" alt="Jesús Meza pescando con una caña" />
 </div>
 
 ## 🔧 Tecnologías y Herramientas
