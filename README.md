@@ -36,9 +36,13 @@ Here are some ideas to get you started:
 
 ## Acerca de mi
 
-Mis amigos me llaman Chuy. Desde pequeño me fascina la tecnología. +12 años de experiencia. Actualmente trabajo de manera remota en México como Full Stack Web Developer.
+Mis amigos me llaman Chuy. Desde pequeño me fascina la tecnología. Desde pequeño me fascina la tecnología. A los 12 años conocí y utilicé por primera vez una computadora y desde entonces he estado más involucrado en el mundo de la tecnología.
+
++13 años de experiencia desarrollando software. Actualmente trabajo de manera remota en México como Full Stack Web Developer.
 
 En mi tiempo libre me gusta ir a pescar, escuchar música y jugar videojuegos, pero lo mejor es pasar tiempo con mi familia. Aprender nuevas tecnologías y compartir lo que sé con los demás es una de las cosas que más disfruto de mi profesión.
+
+Sin duda el mayor éxito en mi vida es mi familia. Mi esposa y mi pequeño hijo son los más grandes tesoros que tengo y mi fuente de inspiración para seguir creciendo personal y profesionalmente.
 
 <div style="text-align: center;">
     <img src="https://jesusmeza.dev/_astro/Fishing1.w73ojSaE_RckST.webp" width="600" alt="Jesús Meza pescando con una caña" />
@@ -47,13 +51,14 @@ En mi tiempo libre me gusta ir a pescar, escuchar música y jugar videojuegos, p
 ## 🔧 Tecnologías y Herramientas
 
 - **Lenguajes:** JavaScript, Typescript, C#, Visual Basic .Net
-- **Frameworks:** Node.js, Nest, Astro, Vue, jQuery, Tailwind
+- **Frameworks:** Node.js, Nest, Astro, Vue, Expo, jQuery, Tailwind
 - **Bases de Datos:** Microsoft SQL, MongoDB
 - **Versionamiento:** Git, Tortoise SVN
 
 ## 🌱 Estoy aprendiendo
 
 - React
+- Expo
 - Micro Servicios en Nest y Net.Core
 
 
