@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## Acerca de mi
 
-Mis amigos me llaman Chuy. Desde pequeño me fascina la tecnología. Desde pequeño me fascina la tecnología. A los 12 años conocí y utilicé por primera vez una computadora y desde entonces he estado más involucrado en el mundo de la tecnología.
+Mis amigos me llaman Chuy. Desde pequeño me fascina la tecnología. A los 12 años conocí y utilicé por primera vez una computadora y desde entonces he estado más involucrado en el mundo de la tecnología.
 
 +13 años de experiencia desarrollando software. Actualmente trabajo de manera remota en México como Full Stack Web Developer.
 
